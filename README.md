@@ -1,2 +1,3 @@
 # FUTURE_DS_01
-I developed a comprehensive project using excel and power BI , creating dashboards and analyze the data, this process involved several stages, including data preprocessing ,data cleaning and data visualization
+ECOMMERCE STORE SALES REPORT
+I created an interactive dashboard of ecommerce store sales report using excel and powerBI
